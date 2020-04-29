@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/functions": "latest",
+    "random-mitch-hedberg-quote": "^1.0.0"
+  }
+}

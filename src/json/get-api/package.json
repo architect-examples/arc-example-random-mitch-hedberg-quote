@@ -1,7 +1,0 @@
-{
-  "name": "mitch-hedberg-get-api",
-  "dependencies": {
-    "@architect/functions": "^1.3.0",
-    "random-mitch-hedberg-quote": "^1.0.0"
-  }
-}

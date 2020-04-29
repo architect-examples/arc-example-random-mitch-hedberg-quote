@@ -1,1 +1,1 @@
-Source code for [✨.to](https://xn--0ci.to)
+# arc-example-random-mitch-hedberg-quote

@@ -1,11 +1,6 @@
 @app
 mitch-hedberg
 
-@domain
-xn--0ci.to
-
-@html
+@http
 get /
-
-@json
 get /api
