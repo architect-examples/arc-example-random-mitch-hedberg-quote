@@ -7,6 +7,6 @@
   "author": "Brian LeRoux <b@brian.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/sandbox": "latest"
+    "@architect/sandbox": "^4.1.1"
   }
 }
