@@ -7,7 +7,7 @@
   "author": "Brian LeRoux <b@brian.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/functions": "^5.2.3",
+    "@architect/functions": "^5.3.2",
     "@architect/sandbox": "^5.3.4",
     "random-mitch-hedberg-quote": "^1.0.0"
   }
